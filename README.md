@@ -14,6 +14,7 @@
   Abre, mira la vista previa, elige el formato y guarda.
 </p>
 
+ **Release Descarga:** [Release](https://github.com/xyvenqorix/ConvertirImagen/releases/tag/ConvertirImagen)
 ---
 
 ## ✨ ¿Qué es?
